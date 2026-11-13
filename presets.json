@@ -338,5 +338,685 @@
       { "q": "Why should I convert website images to WebP?", "a": "WebP files are 25% to 35% smaller than JPEGs, improving Google PageSpeed and SEO rankings." },
       { "q": "Does WebP support transparency?", "a": "Yes, WebP supports transparent backgrounds just like PNG at a fraction of the file size." }
     ]
+  },
+  {
+    "id": "compress-10kb",
+    "slug": "compress-image-to-10kb",
+    "toolName": "Compress Image to 10KB",
+    "title": "Compress Image to 10KB Online Free - Exact KB Compressor",
+    "h1": "Compress Image to 10KB Online",
+    "description": "Shrink JPG or PNG signatures and thumbnails under 10KB instantly in your browser with zero server uploads.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 10,
+    "format": "image/jpeg",
+    "note": "Automatically adjusts quality and dimensions so the output file stays strictly below 10KB.",
+    "faqs": [
+      { "q": "How do I compress an image to 10KB?", "a": "Upload your signature or photo above and the binary-search engine reduces it under 10KB automatically." },
+      { "q": "Why does compressing to 10KB reduce resolution?", "a": "To stay under 10KB without extreme blur, very large images are proportionally downscaled." }
+    ]
+  },
+  {
+    "id": "compress-15kb",
+    "slug": "compress-image-to-15kb",
+    "toolName": "Compress Image to 15KB",
+    "title": "Compress Image to 15KB Online Free - Signature & Photo",
+    "h1": "Compress Image to 15KB Online",
+    "description": "Reduce photo or scanned signature file size under 15KB for online forms and exam portals.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 15,
+    "format": "image/jpeg",
+    "note": "Calibrated for strict 10KB–20KB portal upload limits.",
+    "faqs": [
+      { "q": "How can I make my signature JPG under 15KB?", "a": "Select your signature file; the tool outputs a clean JPEG strictly below 15KB." },
+      { "q": "Does it work with PNG files?", "a": "Yes, PNG files are converted to compact white-background JPEGs under 15KB." }
+    ]
+  },
+  {
+    "id": "compress-30kb",
+    "slug": "compress-image-to-30kb",
+    "toolName": "Compress Image to 30KB",
+    "title": "Compress Image to 30KB Online Free - Exact File Size",
+    "h1": "Compress Image to 30KB Online",
+    "description": "Compress photos and ID documents to under 30KB in seconds without installing software.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 30,
+    "format": "image/jpeg",
+    "note": "Targets maximum visual clarity just beneath 30KB.",
+    "faqs": [
+      { "q": "How do I reduce an image size to 30KB?", "a": "Upload your JPG or PNG above and download the sub-30KB version immediately." },
+      { "q": "Is there any watermark added?", "a": "No, all downloaded images are 100% watermark-free." }
+    ]
+  },
+  {
+    "id": "compress-40kb",
+    "slug": "compress-image-to-40kb",
+    "toolName": "Compress Image to 40KB",
+    "title": "Compress Image to 40KB Online Free - Fast Photo Reducer",
+    "h1": "Compress Image to 40KB Online",
+    "description": "Shrink passport photos and form attachments to under 40KB directly in your browser.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 40,
+    "format": "image/jpeg",
+    "note": "Ideal for portals requiring files between 20KB and 50KB.",
+    "faqs": [
+      { "q": "How do I compress a photo to 40KB on Android or iPhone?", "a": "Open this page in Chrome or Safari, pick your photo, and tap Download." },
+      { "q": "Are my files stored online?", "a": "Never—compression runs locally inside your browser." }
+    ]
+  },
+  {
+    "id": "compress-150kb",
+    "slug": "compress-image-to-150kb",
+    "toolName": "Compress Image to 150KB",
+    "title": "Compress Image to 150KB Online Free - Crisp Quality",
+    "h1": "Compress Image to 150KB Online",
+    "description": "Compress high-resolution photos to under 150KB while preserving original pixel dimensions.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 150,
+    "format": "image/jpeg",
+    "note": "Keeps original dimensions while capping file size at 150KB.",
+    "faqs": [
+      { "q": "Will compressing to 150KB keep my photo sharp?", "a": "Yes, 150KB preserves sharp facial and document details for most web and visa portals." },
+      { "q": "Can I compress multiple images to 150KB?", "a": "Yes, batch upload is supported directly from the file picker." }
+    ]
+  },
+  {
+    "id": "compress-250kb",
+    "slug": "compress-image-to-250kb",
+    "toolName": "Compress Image to 250KB",
+    "title": "Compress Image to 250KB Online Free - Exact KB Limiter",
+    "h1": "Compress Image to 250KB Online",
+    "description": "Reduce camera and phone images to under 250KB without losing visual quality.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 250,
+    "format": "image/jpeg",
+    "note": "Ideal for visa portals (240KB–250KB limit) and CMS uploads.",
+    "faqs": [
+      { "q": "How do I reduce a JPG to under 250KB?", "a": "Drop your photo above and the compressor optimizes quality just below 250KB." },
+      { "q": "Can I change the output format to WebP?", "a": "Yes, select WebP in the Format dropdown for even sharper results at 250KB." }
+    ]
+  },
+  {
+    "id": "compress-300kb",
+    "slug": "compress-image-to-300kb",
+    "toolName": "Compress Image to 300KB",
+    "title": "Compress Image to 300KB Online Free - High Resolution",
+    "h1": "Compress Image to 300KB Online",
+    "description": "Compress large photos to 300KB or less for passport portals, blogs, and email attachments.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 300,
+    "format": "image/jpeg",
+    "note": "Preserves full resolution while guaranteeing output under 300KB.",
+    "faqs": [
+      { "q": "How do I shrink an image below 300KB?", "a": "Upload your image and download the optimized file under 300KB in one click." },
+      { "q": "Does this work for scanned PDFs converted to JPG?", "a": "Yes, any JPG, PNG, or WebP file can be compressed under 300KB." }
+    ]
+  },
+  {
+    "id": "compress-2mb",
+    "slug": "compress-image-to-2mb",
+    "toolName": "Compress Image to 2MB",
+    "title": "Compress Image to 2MB (2000KB) Online Free",
+    "h1": "Compress Image to 2MB Online",
+    "description": "Shrink 10MB–25MB DSLR or iPhone ProRAW photos to under 2MB for YouTube, LinkedIn, and web portals.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 2000,
+    "format": "image/jpeg",
+    "note": "Targets ~2000KB (under 2MB) at maximum near-lossless visual quality.",
+    "faqs": [
+      { "q": "How do I compress a 12MB photo to under 2MB?", "a": "Select your photo above; it is compressed below 2MB locally without uploading to any server." },
+      { "q": "Why do portals set a 2MB upload limit?", "a": "Many government, job, and creator portals cap image uploads at 2MB (2048KB)." }
+    ]
+  },
+  {
+    "id": "dv-lottery-photo",
+    "slug": "dv-lottery-green-card-photo-resizer-600x600",
+    "toolName": "DV Lottery Photo (600x600, 240KB)",
+    "title": "DV Lottery Green Card Photo Resizer (600x600 px, Max 240KB)",
+    "h1": "US DV Lottery Green Card Photo Resizer (600x600 px)",
+    "description": "Format your Diversity Visa (DV Lottery) entry photo to exact 600x600 pixels square JPEG under 240KB.",
+    "width": 600,
+    "height": 600,
+    "maxKb": 240,
+    "format": "image/jpeg",
+    "note": "Official DV Program spec: 600x600 pixels square, sRGB JPEG, maximum 240KB.",
+    "faqs": [
+      { "q": "What are the exact DV Lottery photo requirements?", "a": "DV Lottery entries require a 600x600 pixel square JPEG file equal to or less than 240KB." },
+      { "q": "Are my DV Lottery photos saved on your server?", "a": "No, processing is 100% browser-based so your biometric photo never leaves your device." }
+    ]
+  },
+  {
+    "id": "australia-visa-photo",
+    "slug": "australia-visa-immiaccount-photo-resizer",
+    "toolName": "Australia Visa Photo (900x1200)",
+    "title": "Australia Visa ImmiAccount Photo Resizer (Under 500KB)",
+    "h1": "Australia Visa ImmiAccount Photo Resizer",
+    "description": "Resize digital passport photos for Australian ImmiAccount visa applications (35x45mm ratio, 900x1200 px, under 500KB).",
+    "width": 900,
+    "height": 1200,
+    "maxKb": 480,
+    "format": "image/jpeg",
+    "note": "High-res 3:4 portrait (900x1200 px) capped under ImmiAccount's 500KB limit.",
+    "faqs": [
+      { "q": "What is the photo size limit for Australia ImmiAccount?", "a": "ImmiAccount accepts JPG passport photos up to 500KB with a 35x45mm portrait aspect ratio." },
+      { "q": "What dimensions work best for Australian visa uploads?", "a": "900x1200 pixels provides crisp facial detail while staying safely below 500KB." }
+    ]
+  },
+  {
+    "id": "japan-visa-photo",
+    "slug": "japan-evisa-photo-resizer-45x45mm",
+    "toolName": "Japan eVisa Photo (45x45mm)",
+    "title": "Japan eVisa Photo Resizer 45x45mm (531x531 px) Online",
+    "h1": "Japan eVisa 45x45mm (531x531 px) Photo Resizer",
+    "description": "Resize digital photos to Japanese eVisa specifications: 45mm x 45mm square (531x531 pixels) under 200KB.",
+    "width": 531,
+    "height": 531,
+    "maxKb": 200,
+    "format": "image/jpeg",
+    "note": "45mm x 45mm at 300 DPI = 531 x 531 pixels square, JPEG under 200KB.",
+    "faqs": [
+      { "q": "What are the Japan eVisa photo dimensions in pixels?", "a": "A 45x45mm Japanese visa photo equals 531x531 pixels at 300 DPI." },
+      { "q": "Is Japan visa photo square or rectangular?", "a": "Japan visa photos use a 1:1 square aspect ratio (45mm x 45mm)." }
+    ]
+  },
+  {
+    "id": "china-visa-photo",
+    "slug": "china-visa-photo-resizer-33x48mm",
+    "toolName": "China Visa Photo (33x48mm, 120KB)",
+    "title": "China Visa COVA Photo Resizer 33x48mm (390x567 px, 120KB)",
+    "h1": "China Visa COVA Photo Resizer (33x48mm / 390x567 px)",
+    "description": "Resize your photo to exact Chinese Visa Online Application (COVA) specs: 33x48mm (390x567 pixels) and 40KB–120KB.",
+    "width": 390,
+    "height": 567,
+    "maxKb": 115,
+    "format": "image/jpeg",
+    "note": "Official COVA spec: 33mm x 48mm (390x567 px), JPEG between 40KB and 120KB.",
+    "faqs": [
+      { "q": "What are the COVA photo requirements for a China visa?", "a": "China COVA requires a 33x48mm (354x472 to 420x560 px) JPEG between 40KB and 120KB." },
+      { "q": "Why does this preset target 115KB?", "a": "115KB keeps the file safely inside the mandatory 40KB–120KB COVA window." }
+    ]
+  },
+  {
+    "id": "india-oci-photo",
+    "slug": "india-oci-card-photo-resizer-600x600",
+    "toolName": "India OCI Photo (600x600, 200KB)",
+    "title": "India OCI Card Photo Resizer (600x600 px, Max 200KB)",
+    "h1": "India OCI Application Photo Resizer (2x2 in / 600x600 px)",
+    "description": "Resize OCI applicant photos to exact 2x2 inches (600x600 pixels square) and strictly under 200KB JPEG.",
+    "width": 600,
+    "height": 600,
+    "maxKb": 195,
+    "format": "image/jpeg",
+    "note": "OCI Portal spec: 1:1 square (minimum 200x200 px, recommended 600x600 px) under 200KB.",
+    "faqs": [
+      { "q": "What is the photo size for OCI card application?", "a": "OCI requires a square 1:1 JPEG photo (600x600 pixels recommended) with a maximum size of 200KB." },
+      { "q": "What size is the OCI signature upload?", "a": "OCI signatures must have a 3:1 aspect ratio under 200KB—use the Signature Resizer preset." }
+    ]
+  },
+  {
+    "id": "india-passport-seva",
+    "slug": "passport-seva-photo-resizer-630x810",
+    "toolName": "Passport Seva Photo (630x810 px)",
+    "title": "Passport Seva Photo Resizer (630x810 px, Under 300KB)",
+    "h1": "Indian Passport Seva Photo Resizer (630x810 px)",
+    "description": "Resize digital passport photos to Passport Seva specs (630x810 pixels, 3.5x4.5cm ratio) under 300KB.",
+    "width": 630,
+    "height": 810,
+    "maxKb": 290,
+    "format": "image/jpeg",
+    "note": "630 x 810 pixels JPEG capped below 300KB for Passport Seva portals.",
+    "faqs": [
+      { "q": "What is the pixel size for Passport Seva photo upload?", "a": "630 pixels wide by 810 pixels high in JPEG format under 300KB." },
+      { "q": "Does Center Crop prevent face distortion?", "a": "Yes, Center Crop preserves natural facial proportions without stretching." }
+    ]
+  },
+  {
+    "id": "gate-exam-photo",
+    "slug": "gate-exam-photo-resizer-480x640",
+    "toolName": "GATE Exam Photo (480x640, 200KB)",
+    "title": "GATE Exam Photo Resizer (480x640 px, 5KB to 200KB)",
+    "h1": "GATE Application Photo Resizer (480x640 px)",
+    "description": "Resize GATE exam candidate photographs to 480x640 pixels (3.5x4.5cm ratio) and under 200KB JPEG.",
+    "width": 480,
+    "height": 640,
+    "maxKb": 190,
+    "format": "image/jpeg",
+    "note": "GATE portal specification: 480 x 640 pixels JPEG between 5KB and 200KB.",
+    "faqs": [
+      { "q": "What are the GATE exam photo dimensions?", "a": "GATE requires a JPEG photo up to 480x640 pixels with file size between 5KB and 200KB." },
+      { "q": "What are the GATE signature dimensions?", "a": "GATE signatures require 160x560 or 80x280 pixels under 200KB." }
+    ]
+  },
+  {
+    "id": "neet-photo-resizer",
+    "slug": "neet-ug-photo-resizer-200kb",
+    "toolName": "NEET Photo Resizer (10KB–200KB)",
+    "title": "NEET UG Passport & Postcard Photo Resizer (10KB–200KB)",
+    "h1": "NEET Application Photo Resizer (Under 200KB)",
+    "description": "Resize and compress NEET UG passport photos to 3.5x4.5cm (413x531 px) between 10KB and 200KB JPEG.",
+    "width": 413,
+    "height": 531,
+    "maxKb": 180,
+    "format": "image/jpeg",
+    "note": "3.5cm x 4.5cm (413x531 px) compressed safely inside NEET's 10KB–200KB range.",
+    "faqs": [
+      { "q": "What is the photo size limit for NEET registration?", "a": "NTA NEET requires a JPG passport photo between 10KB and 200KB." },
+      { "q": "What is the signature file size for NEET?", "a": "NEET signatures must be JPG files between 4KB and 30KB." }
+    ]
+  },
+  {
+    "id": "ibps-sbi-photo",
+    "slug": "ibps-sbi-bank-exam-photo-resizer-200x230",
+    "toolName": "IBPS / SBI Photo (200x230, 50KB)",
+    "title": "IBPS & SBI Bank Exam Photo Resizer (200x230 px, 20KB–50KB)",
+    "h1": "IBPS & SBI Exam Photo Resizer (200x230 px & Under 50KB)",
+    "description": "Resize bank exam applicant photos to exact 200x230 pixels and compress between 20KB and 50KB JPEG.",
+    "width": 200,
+    "height": 230,
+    "maxKb": 48,
+    "format": "image/jpeg",
+    "note": "Official IBPS/SBI spec: 200 x 230 pixels, JPEG format between 20KB and 50KB.",
+    "faqs": [
+      { "q": "What are the exact IBPS and SBI photo dimensions?", "a": "Both IBPS and SBI require 200x230 pixels in JPG format between 20KB and 50KB." },
+      { "q": "How do I resize the IBPS signature?", "a": "Choose the IBPS / SBI Signature (140x60, 20KB) preset from the dropdown menu." }
+    ]
+  },
+  {
+    "id": "ibps-signature",
+    "slug": "ibps-sbi-signature-resizer-140x60-20kb",
+    "toolName": "IBPS / SBI Signature (140x60, 20KB)",
+    "title": "IBPS & SBI Signature Resizer (140x60 px, 10KB–20KB)",
+    "h1": "IBPS & SBI Bank Exam Signature Resizer (140x60 px)",
+    "description": "Resize scanned signatures to exact 140x60 pixels and compress between 10KB and 20KB for IBPS/SBI portals.",
+    "width": 140,
+    "height": 60,
+    "maxKb": 19,
+    "format": "image/jpeg",
+    "note": "Official IBPS/SBI signature spec: 140 x 60 pixels, JPEG between 10KB and 20KB.",
+    "faqs": [
+      { "q": "What is the IBPS signature size in pixels?", "a": "IBPS specifies 140 pixels wide by 60 pixels high with a file size between 10KB and 20KB." },
+      { "q": "Should the signature be on white paper?", "a": "Yes, sign with black ink on clean white paper before uploading." }
+    ]
+  },
+  {
+    "id": "us-uscis-photo",
+    "slug": "uscis-immigration-photo-resizer-600x600",
+    "toolName": "USCIS Photo (600x600, 240KB)",
+    "title": "USCIS Immigration Photo Resizer (600x600 px, Max 240KB)",
+    "h1": "USCIS Online Filing Photo Resizer (600x600 px)",
+    "description": "Resize passport-style photos for USCIS online forms (I-130, I-485, N-400) to 600x600 pixels under 240KB.",
+    "width": 600,
+    "height": 600,
+    "maxKb": 240,
+    "format": "image/jpeg",
+    "note": "2x2 inch square (600x600 px) JPEG capped under 240KB for USCIS online portals.",
+    "faqs": [
+      { "q": "What photo size does USCIS require for online filing?", "a": "USCIS requires a 2x2 inch (600x600 pixel) color JPEG photo under 240KB." },
+      { "q": "Are USCIS photos uploaded to any external server?", "a": "No, your image stays 100% inside your own browser." }
+    ]
+  },
+  {
+    "id": "indonesia-pas-foto-3x4",
+    "slug": "pas-foto-3x4-cm-pixel-resizer",
+    "toolName": "Pas Foto 3x4 cm (354x472 px)",
+    "title": "Ubah Ukuran Pas Foto 3x4 cm (354x472 px) & Kompres KB Online",
+    "h1": "Pas Foto 3x4 cm (354x472 px) Resizer & Kompresor KB",
+    "description": "Ubah ukuran pas foto 3x4 cm (354x472 piksel pada 300 DPI) dan kompres di bawah 200KB langsung di browser.",
+    "width": 354,
+    "height": 472,
+    "maxKb": 200,
+    "format": "image/jpeg",
+    "note": "Ukuran resmi 3x4 cm pada 300 DPI = 354 x 472 piksel, format JPG di bawah 200KB.",
+    "faqs": [
+      { "q": "Berapa ukuran pas foto 3x4 cm dalam piksel?", "a": "Pada resolusi cetak standar 300 DPI, ukuran 3x4 cm adalah 354 x 472 piksel." },
+      { "q": "Apakah foto dikirim ke server?", "a": "Tidak, proses ubah ukuran dan kompresi berjalan 100% di browser HP atau laptop Anda." }
+    ]
+  },
+  {
+    "id": "indonesia-pas-foto-4x6",
+    "slug": "pas-foto-4x6-cm-pixel-resizer",
+    "toolName": "Pas Foto 4x6 cm (472x709 px)",
+    "title": "Ubah Ukuran Pas Foto 4x6 cm (472x709 px) & Kompres KB Online",
+    "h1": "Pas Foto 4x6 cm (472x709 px) Resizer & Kompresor KB",
+    "description": "Ubah ukuran pas foto 4x6 cm (472x709 piksel pada 300 DPI) dan kompres ukuran file di bawah 200KB.",
+    "width": 472,
+    "height": 709,
+    "maxKb": 200,
+    "format": "image/jpeg",
+    "note": "Ukuran resmi 4x6 cm pada 300 DPI = 472 x 709 piksel, format JPG di bawah 200KB.",
+    "faqs": [
+      { "q": "Berapa piksel ukuran pas foto 4x6 cm?", "a": "Pada 300 DPI, ukuran 4x6 cm setara dengan 472 x 709 piksel." },
+      { "q": "Bagaimana cara mengecilkan ukuran KB foto 4x6?", "a": "Ubah angka pada kolom Max Size (KB) sesuai batas portal pendaftaran lalu unduh hasilnya." }
+    ]
+  },
+  {
+    "id": "cpns-sscasn-photo",
+    "slug": "resizer-foto-cpns-sscasn-200kb",
+    "toolName": "Foto CPNS / SSCASN (Max 200KB)",
+    "title": "Resizer & Kompres Foto CPNS SSCASN (400x600 px, Max 200KB)",
+    "h1": "Resizer Pas Foto & Swafoto CPNS / SSCASN (Max 200KB)",
+    "description": "Ubah ukuran dan kompres pas foto serta swafoto pendaftaran CPNS / PPPK SSCASN agar di bawah 200KB JPG.",
+    "width": 400,
+    "height": 600,
+    "maxKb": 195,
+    "format": "image/jpeg",
+    "note": "Rasio 4:6 (400x600 piksel) terkompres otomatis di bawah batas 200KB SSCASN.",
+    "faqs": [
+      { "q": "Berapa batas ukuran foto pendaftaran CPNS SSCASN?", "a": "Portal SSCASN BKN mensyaratkan pas foto dan swafoto format JPG/JPEG maksimal 200KB." },
+      { "q": "Apakah aman mengunggah foto KTP atau swafoto di sini?", "a": "Sangat aman karena seluruh pemrosesan berjalan lokal di perangkat Anda tanpa server eksternal." }
+    ]
+  },
+  {
+    "id": "instagram-story",
+    "slug": "instagram-story-reel-resizer-1080x1920",
+    "toolName": "Instagram Story / Reel (1080x1920)",
+    "title": "Instagram Story & Reel Cover Resizer (1080x1920 px)",
+    "h1": "Instagram Story & Reel Cover Resizer (1080x1920 px)",
+    "description": "Resize photos to full-screen 9:16 vertical resolution (1080x1920 pixels) for Instagram Stories and Reels.",
+    "width": 1080,
+    "height": 1920,
+    "maxKb": 900,
+    "format": "image/jpeg",
+    "note": "9:16 vertical HD (1080x1920 px) optimized for crisp Instagram Stories.",
+    "faqs": [
+      { "q": "What are the exact Instagram Story dimensions?", "a": "Instagram Stories use a 9:16 vertical aspect ratio at 1080x1920 pixels." },
+      { "q": "Will my photo get stretched?", "a": "No, Center Crop mode frames the image cleanly to 1080x1920 without distortion." }
+    ]
+  },
+  {
+    "id": "instagram-portrait",
+    "slug": "instagram-portrait-4x5-resizer-1080x1350",
+    "toolName": "Instagram Portrait 4:5 (1080x1350)",
+    "title": "Instagram Portrait 4:5 Photo Resizer (1080x1350 px)",
+    "h1": "Instagram 4:5 Portrait Post Resizer (1080x1350 px)",
+    "description": "Resize vertical feed photos to 1080x1350 pixels (4:5 aspect ratio) for maximum screen space on Instagram.",
+    "width": 1080,
+    "height": 1350,
+    "maxKb": 850,
+    "format": "image/jpeg",
+    "note": "4:5 vertical feed format (1080x1350 px) to maximize mobile feed visibility.",
+    "faqs": [
+      { "q": "Why is 1080x1350 best for Instagram feed posts?", "a": "4:5 portrait posts take up 25% more vertical screen space on mobile phones than square posts." },
+      { "q": "Does Instagram compress images over 1MB?", "a": "Yes, keeping uploads under 850KB preserves sharpness on Instagram." }
+    ]
+  },
+  {
+    "id": "youtube-banner",
+    "slug": "youtube-channel-banner-resizer-2560x1440",
+    "toolName": "YouTube Banner (2560x1440)",
+    "title": "YouTube Channel Banner Art Resizer (2560x1440 px)",
+    "h1": "YouTube Channel Banner Resizer (2560x1440 px)",
+    "description": "Resize YouTube channel art to exact 2560x1440 pixels (16:9) under YouTube's 6MB file size limit.",
+    "width": 2560,
+    "height": 1440,
+    "maxKb": 2500,
+    "format": "image/jpeg",
+    "note": "Official YouTube TV/Desktop banner size: 2560 x 1440 pixels.",
+    "faqs": [
+      { "q": "What is the exact YouTube channel banner size?", "a": "YouTube recommends 2560x1440 pixels with a maximum file size of 6MB." },
+      { "q": "What is the safe area for text on a YouTube banner?", "a": "Keep logos and text centered inside the middle 1546x423 pixel zone so nothing is cropped on mobile." }
+    ]
+  },
+  {
+    "id": "youtube-profile",
+    "slug": "youtube-profile-picture-resizer-800x800",
+    "toolName": "YouTube Profile Icon (800x800)",
+    "title": "YouTube Channel Profile Picture Resizer (800x800 px)",
+    "h1": "YouTube Channel Profile Picture Resizer (800x800 px)",
+    "description": "Resize your YouTube channel avatar logo to exact 800x800 square pixels under 4MB.",
+    "width": 800,
+    "height": 800,
+    "maxKb": 500,
+    "format": "image/jpeg",
+    "note": "Official YouTube channel icon size: 800 x 800 pixels square.",
+    "faqs": [
+      { "q": "What resolution should a YouTube profile picture be?", "a": "YouTube recommends uploading a square 800x800 pixel JPG or PNG image." },
+      { "q": "How does YouTube crop profile icons?", "a": "YouTube displays your 800x800 square image inside a circular frame." }
+    ]
+  },
+  {
+    "id": "twitch-emote",
+    "slug": "twitch-emote-resizer-112x112-png",
+    "toolName": "Twitch Emote (112x112 PNG)",
+    "title": "Twitch Custom Emote Resizer (112x112 px PNG, Max 100KB)",
+    "h1": "Twitch Custom Emote Resizer (112x112 px PNG)",
+    "description": "Resize transparent PNG emotes to 112x112 pixels under Twitch's 100KB file size limit.",
+    "width": 112,
+    "height": 112,
+    "maxKb": 95,
+    "format": "image/png",
+    "note": "112x112 pixels transparent PNG kept strictly under Twitch's 100KB emote cap.",
+    "faqs": [
+      { "q": "What is the Twitch emote size for auto-resize mode?", "a": "Twitch's single-upload auto-resize mode accepts a 112x112 to 4096x4096 PNG under 1MB, or 112x112 under 100KB." },
+      { "q": "Does this keep transparent backgrounds?", "a": "Yes, PNG output preserves full alpha transparency." }
+    ]
+  },
+  {
+    "id": "twitch-banner",
+    "slug": "twitch-profile-banner-resizer-1200x480",
+    "toolName": "Twitch Banner (1200x480)",
+    "title": "Twitch Profile Banner Resizer (1200x480 px) Online",
+    "h1": "Twitch Channel Profile Banner Resizer (1200x480 px)",
+    "description": "Resize your Twitch channel header banner to exact 1200x480 pixels under 10MB.",
+    "width": 1200,
+    "height": 480,
+    "maxKb": 1200,
+    "format": "image/jpeg",
+    "note": "Official Twitch profile banner resolution: 1200 x 480 pixels.",
+    "faqs": [
+      { "q": "What are the exact Twitch profile banner dimensions?", "a": "Twitch recommends 1200 pixels wide by 480 pixels tall." },
+      { "q": "What is the offline video player banner size on Twitch?", "a": "Offline player banners use 1920x1080 pixels (16:9)—you can enter 1920 and 1080 in the boxes above." }
+    ]
+  },
+  {
+    "id": "discord-banner",
+    "slug": "discord-server-banner-resizer-960x540",
+    "toolName": "Discord Server Banner (960x540)",
+    "title": "Discord Server Banner Resizer (960x540 px) Online",
+    "h1": "Discord Server Banner Resizer (960x540 px)",
+    "description": "Resize your Discord community server banner background to exact 960x540 pixels (16:9).",
+    "width": 960,
+    "height": 540,
+    "maxKb": 800,
+    "format": "image/jpeg",
+    "note": "Official Discord Server Banner minimum size: 960 x 540 pixels (16:9 ratio).",
+    "faqs": [
+      { "q": "What is the minimum size for a Discord server banner?", "a": "Discord requires server banners to be at least 960x540 pixels with a 16:9 aspect ratio." },
+      { "q": "Can I also resize Discord profile banners here?", "a": "Yes, enter 600x240 in Width and Height for Discord Nitro user profile banners." }
+    ]
+  },
+  {
+    "id": "discord-pfp",
+    "slug": "discord-avatar-pfp-resizer-512x512",
+    "toolName": "Discord Avatar PFP (512x512)",
+    "title": "Discord Profile Picture (PFP) Resizer (512x512 px)",
+    "h1": "Discord Avatar & Server Icon Resizer (512x512 px)",
+    "description": "Resize Discord user avatars and server icons to crisp 512x512 square pixels.",
+    "width": 512,
+    "height": 512,
+    "maxKb": 500,
+    "format": "image/png",
+    "note": "Official Discord icon/avatar size: 512 x 512 pixels.",
+    "faqs": [
+      { "q": "What is the recommended Discord server icon size?", "a": "Discord recommends 512x512 pixels in PNG or JPG format." },
+      { "q": "Does this preserve transparent backgrounds for PFP logos?", "a": "Yes, PNG format keeps transparent areas intact." }
+    ]
+  },
+  {
+    "id": "twitter-x-header",
+    "slug": "twitter-x-header-banner-resizer-1500x500",
+    "toolName": "X / Twitter Header (1500x500)",
+    "title": "X (Twitter) Header Banner Resizer (1500x500 px) Online",
+    "h1": "X / Twitter Profile Header Resizer (1500x500 px)",
+    "description": "Resize your X (Twitter) cover header image to exact 1500x500 pixels (3:1 aspect ratio) under 5MB.",
+    "width": 1500,
+    "height": 500,
+    "maxKb": 900,
+    "format": "image/jpeg",
+    "note": "Official X / Twitter header dimensions: 1500 x 500 pixels (3:1 ratio).",
+    "faqs": [
+      { "q": "What are the exact X (Twitter) header banner dimensions?", "a": "X recommends 1500 pixels wide by 500 pixels tall (3:1 aspect ratio)." },
+      { "q": "How much of the header is covered by the profile picture?", "a": "Leave space in the bottom-left corner where your circular avatar overlaps the header." }
+    ]
+  },
+  {
+    "id": "facebook-cover",
+    "slug": "facebook-cover-photo-resizer-851x315",
+    "toolName": "Facebook Cover Photo (851x315)",
+    "title": "Facebook Page & Profile Cover Photo Resizer (851x315 px)",
+    "h1": "Facebook Cover Photo Resizer (851x315 px)",
+    "description": "Resize Facebook profile and business page cover photos to exact 851x315 pixels under 100KB for zero compression blur.",
+    "width": 851,
+    "height": 315,
+    "maxKb": 98,
+    "format": "image/jpeg",
+    "note": "851 x 315 pixels compressed under 100KB to prevent Facebook's JPEG artifacts.",
+    "faqs": [
+      { "q": "Why should a Facebook cover photo be under 100KB?", "a": "Facebook applies heavy compression to cover photos larger than 100KB; pre-compressing keeps text sharp." },
+      { "q": "What are Facebook's desktop cover dimensions?", "a": "851 pixels wide by 315 pixels tall." }
+    ]
+  },
+  {
+    "id": "pinterest-pin",
+    "slug": "pinterest-pin-image-resizer-1000x1500",
+    "toolName": "Pinterest Pin (1000x1500)",
+    "title": "Pinterest Standard Pin Image Resizer (1000x1500 px)",
+    "h1": "Pinterest 2:3 Vertical Pin Resizer (1000x1500 px)",
+    "description": "Resize blog and product graphics to Pinterest's optimal 2:3 vertical Pin size (1000x1500 pixels).",
+    "width": 1000,
+    "height": 1500,
+    "maxKb": 800,
+    "format": "image/jpeg",
+    "note": "Pinterest recommended 2:3 aspect ratio: 1000 x 1500 pixels.",
+    "faqs": [
+      { "q": "What is the best image size for Pinterest Pins?", "a": "Pinterest recommends a 2:3 aspect ratio at 1000x1500 pixels." },
+      { "q": "Can I batch resize multiple Pinterest graphics at once?", "a": "Yes, select multiple images at once to resize them in seconds." }
+    ]
+  },
+  {
+    "id": "tiktok-profile",
+    "slug": "tiktok-profile-picture-resizer-200x200",
+    "toolName": "TikTok Profile Photo (200x200)",
+    "title": "TikTok Profile Picture Resizer (200x200 px) Online",
+    "h1": "TikTok Profile Picture Resizer (200x200 px)",
+    "description": "Crop and resize your TikTok avatar to exact 200x200 square pixels for fast loading.",
+    "width": 200,
+    "height": 200,
+    "maxKb": 150,
+    "format": "image/jpeg",
+    "note": "Official TikTok minimum profile photo resolution: 200 x 200 pixels square.",
+    "faqs": [
+      { "q": "What are the TikTok profile picture dimensions?", "a": "TikTok requires a minimum of 200x200 pixels in a 1:1 square aspect ratio." },
+      { "q": "Does TikTok crop profile photos into a circle?", "a": "Yes, keep your face or logo centered inside the square." }
+    ]
+  },
+  {
+    "id": "whatsapp-dp",
+    "slug": "whatsapp-dp-full-size-resizer-500x500",
+    "toolName": "WhatsApp DP Full Size (500x500)",
+    "title": "WhatsApp Profile Picture (DP) Resizer Without Cropping",
+    "h1": "WhatsApp Profile Picture (DP) Full-Size Resizer",
+    "description": "Fit rectangular photos into a 500x500 square WhatsApp DP with white padding so nothing gets cut off.",
+    "width": 500,
+    "height": 500,
+    "maxKb": 250,
+    "format": "image/jpeg",
+    "note": "Tip: Switch Fit Mode above to 'Fit with White Padding' to post full vertical/horizontal photos on WhatsApp DP.",
+    "faqs": [
+      { "q": "How do I put a full-size photo on WhatsApp DP without cropping?", "a": "Change Fit Mode to 'Fit with White Padding' above to frame your entire photo inside a 500x500 square." },
+      { "q": "What is the standard WhatsApp profile picture resolution?", "a": "500x500 pixels is the optimal square resolution for WhatsApp avatars." }
+    ]
+  },
+  {
+    "id": "amazon-product",
+    "slug": "amazon-product-image-resizer-2000x2000",
+    "toolName": "Amazon Product (2000x2000)",
+    "title": "Amazon Seller Main Product Image Resizer (2000x2000 px)",
+    "h1": "Amazon FBA Product Image Resizer (2000x2000 px)",
+    "description": "Resize Amazon product listing images to 2000x2000 pixels to unlock Amazon's hover-zoom feature.",
+    "width": 2000,
+    "height": 2000,
+    "maxKb": 600,
+    "format": "image/jpeg",
+    "note": "2000x2000 pixels enables Amazon's zoom function (minimum 1000px required by Amazon).",
+    "faqs": [
+      { "q": "What size enables zoom on Amazon product listings?", "a": "Amazon requires at least 1000px on the longest side for zoom, with 2000x2000 pixels recommended." },
+      { "q": "How do I add white background padding around a rectangular product?", "a": "Select 'Fit with White Padding' in Fit Mode to center your product on a pure #FFFFFF white square." }
+    ]
+  },
+  {
+    "id": "etsy-listing",
+    "slug": "etsy-listing-photo-resizer-2000x2000",
+    "toolName": "Etsy Listing Photo (2000x2000)",
+    "title": "Etsy Listing Photo Resizer (2000x2000 px, Under 1MB)",
+    "h1": "Etsy Shop Listing Photo Resizer (2000x2000 px)",
+    "description": "Resize Etsy product photos to 2000x2000 pixels and under 1MB for fast mobile loading and crisp zoom.",
+    "width": 2000,
+    "height": 2000,
+    "maxKb": 800,
+    "format": "image/jpeg",
+    "note": "Etsy recommended 2000px shortest side, compressed under 1MB for faster upload.",
+    "faqs": [
+      { "q": "What is Etsy's recommended listing photo size?", "a": "Etsy recommends at least 2000 pixels on the shortest side and keeping files under 1MB." },
+      { "q": "Can I resize multiple Etsy product photos in one batch?", "a": "Yes, select multiple images from your gallery to process them together." }
+    ]
+  },
+  {
+    "id": "ebay-listing",
+    "slug": "ebay-listing-photo-resizer-1600x1600",
+    "toolName": "eBay Listing Photo (1600x1600)",
+    "title": "eBay Listing Product Photo Resizer (1600x1600 px)",
+    "h1": "eBay Seller Product Photo Resizer (1600x1600 px)",
+    "description": "Resize eBay item photos to 1600x1600 pixels for high-resolution gallery zoom.",
+    "width": 1600,
+    "height": 1600,
+    "maxKb": 500,
+    "format": "image/jpeg",
+    "note": "eBay recommended 1600 pixels on the longest side for gallery zoom.",
+    "faqs": [
+      { "q": "What is the best photo size for eBay listings?", "a": "eBay recommends 1600 pixels on the longest side to activate the full-screen zoom tool." },
+      { "q": "Does eBay accept WebP or JPG?", "a": "JPG/JPEG is universally supported across all eBay listing tools." }
+    ]
+  },
+  {
+    "id": "og-image-social",
+    "slug": "open-graph-og-image-resizer-1200x630",
+    "toolName": "Open Graph OG Image (1200x630)",
+    "title": "Open Graph (OG) Social Share Image Resizer (1200x630 px)",
+    "h1": "Open Graph Social Preview Image Resizer (1200x630 px)",
+    "description": "Resize website meta og:image thumbnails to exact 1200x630 pixels for Facebook, LinkedIn, X, and WhatsApp link previews.",
+    "width": 1200,
+    "height": 630,
+    "maxKb": 250,
+    "format": "image/jpeg",
+    "note": "Universal 1.91:1 Open Graph link preview size: 1200 x 630 pixels under 300KB.",
+    "faqs": [
+      { "q": "What is the standard Open Graph og:image size?", "a": "1200x630 pixels (1.91:1 ratio) displays cleanly across Facebook, X, LinkedIn, Discord, and Slack." },
+      { "q": "Why keep og:image under 300KB?", "a": "WhatsApp and Slack fail to render link preview thumbnails if the image exceeds 300KB–600KB." }
+    ]
+  },
+  {
+    "id": "favicon-512",
+    "slug": "app-icon-favicon-resizer-512x512-png",
+    "toolName": "App Icon / Favicon (512x512 PNG)",
+    "title": "Website Favicon & App Icon Resizer (512x512 px PNG)",
+    "h1": "Website Favicon & PWA App Icon Resizer (512x512 px)",
+    "description": "Resize logos to exact 512x512 square PNG icons for WordPress site icons, Google Play, and web manifests.",
+    "width": 512,
+    "height": 512,
+    "maxKb": 250,
+    "format": "image/png",
+    "note": "512 x 512 pixels transparent PNG required by WordPress Site Icon and Google Play.",
+    "faqs": [
+      { "q": "What size does WordPress require for a Site Icon (Favicon)?", "a": "WordPress requires a square PNG image of at least 512x512 pixels." },
+      { "q": "Is 512x512 PNG also used for Google Play Store icons?", "a": "Yes, Google Play Console requires a 512x512 32-bit PNG app icon." }
+    ]
   }
 ]
