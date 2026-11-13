@@ -1,0 +1,342 @@
+[
+  {
+    "id": "compress-20kb",
+    "slug": "compress-image-to-20kb",
+    "toolName": "Compress Image to 20KB",
+    "title": "Compress Image to 20KB Online Free - Exact KB Reducer",
+    "h1": "Compress Image to 20KB (Exact Size)",
+    "description": "Reduce JPG, PNG, or WebP photo size to under 20KB instantly in your browser without losing clarity. Ideal for government forms and signatures.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 20,
+    "format": "image/jpeg",
+    "note": "Keeps original dimensions while automatically adjusting compression to hit under 20KB.",
+    "faqs": [
+      { "q": "How do I compress a photo to 20KB without losing quality?", "a": "Upload your image and this tool uses binary-search compression to find the highest possible JPEG quality under 20KB." },
+      { "q": "Are my photos uploaded to a server?", "a": "No, all resizing and compression happen 100% locally in your browser for complete privacy." }
+    ]
+  },
+  {
+    "id": "compress-50kb",
+    "slug": "compress-image-to-50kb",
+    "toolName": "Compress Image to 50KB",
+    "title": "Compress Image to 50KB Online Free - Exact File Size",
+    "h1": "Compress Image to 50KB Online",
+    "description": "Shrink any photo or scanned document to an exact 50KB limit in seconds. 100% private client-side compression.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 50,
+    "format": "image/jpeg",
+    "note": "Targets maximum quality just below 50KB for online portals and applications.",
+    "faqs": [
+      { "q": "How can I make a JPG file under 50KB?", "a": "Select your photo above; the compressor automatically calibrates quality and dimensions to stay strictly under 50KB." },
+      { "q": "Does it work on mobile phones?", "a": "Yes, it works directly in Chrome or Safari on Android and iPhone without installing any app." }
+    ]
+  },
+  {
+    "id": "compress-100kb",
+    "slug": "compress-image-to-100kb",
+    "toolName": "Compress Image to 100KB",
+    "title": "Compress Image to 100KB Online - Fast & Private",
+    "h1": "Compress Image to 100KB (Exact Limit)",
+    "description": "Reduce high-resolution photos to 100KB or less for fast web uploads, job portals, and visa forms.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 100,
+    "format": "image/jpeg",
+    "note": "Optimizes large smartphone photos down to under 100KB while keeping sharp details.",
+    "faqs": [
+      { "q": "How do I reduce a 5MB photo to 100KB?", "a": "Upload the 5MB file and the tool automatically compresses it below 100KB in under one second." },
+      { "q": "Can I convert PNG to a 100KB JPG?", "a": "Yes, PNG files are automatically converted to crisp white-background JPEGs under 100KB." }
+    ]
+  },
+  {
+    "id": "compress-200kb",
+    "slug": "compress-image-to-200kb",
+    "toolName": "Compress Image to 200KB",
+    "title": "Compress Image to 200KB Online Free - High Quality",
+    "h1": "Compress Image to 200KB Online",
+    "description": "Compress photos to 200KB with near-lossless visual quality for websites, blogs, and document portals.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 200,
+    "format": "image/jpeg",
+    "note": "Maintains full resolution where possible while capping output size at 200KB.",
+    "faqs": [
+      { "q": "Is 200KB good for website images?", "a": "Yes, keeping images under 200KB dramatically speeds up page load times and Core Web Vitals." },
+      { "q": "Is there a daily limit on compressions?", "a": "Single-image compression is completely unlimited and free." }
+    ]
+  },
+  {
+    "id": "compress-500kb",
+    "slug": "compress-image-to-500kb",
+    "toolName": "Compress Image to 500KB",
+    "title": "Compress Image to 500KB Online - Exact KB Limiter",
+    "h1": "Compress Image to 500KB",
+    "description": "Reduce large camera images to under 500KB while preserving crisp resolution for portfolios and listings.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 500,
+    "format": "image/jpeg",
+    "note": "High-clarity compression capped at 500KB.",
+    "faqs": [
+      { "q": "How do I shrink an image below 500KB?", "a": "Drop your file into the uploader above and download the sub-500KB result immediately." },
+      { "q": "Will my photo dimensions change?", "a": "Dimensions remain unchanged unless the image is too massive to fit under 500KB at minimum quality." }
+    ]
+  },
+  {
+    "id": "compress-1mb",
+    "slug": "compress-image-to-1mb",
+    "toolName": "Compress Image to 1MB",
+    "title": "Compress Image to 1MB (1024KB) Online Free",
+    "h1": "Compress Image to 1MB Online",
+    "description": "Compress 10MB+ RAW/smartphone photos down to under 1MB without visible quality loss.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 1000,
+    "format": "image/jpeg",
+    "note": "Caps file size at 1000KB (~1MB) at maximum visual fidelity.",
+    "faqs": [
+      { "q": "How do I reduce a photo to under 1MB?", "a": "Upload your image and download the optimized version guaranteed under 1MB." },
+      { "q": "Does this work offline?", "a": "Once the page loads, all processing runs locally on your device CPU." }
+    ]
+  },
+  {
+    "id": "us-visa-photo",
+    "slug": "us-visa-photo-resizer-600x600-240kb",
+    "toolName": "US Visa Photo (600x600, 240KB)",
+    "title": "US Visa DS-160 Photo Resizer (600x600 px, Max 240KB)",
+    "h1": "US Visa DS-160 Photo Resizer (600x600 & Under 240KB)",
+    "description": "Resize and compress your photo to exact US State Department DS-160 specs: 600x600 pixels (2x2 inches) and under 240KB JPEG.",
+    "width": 600,
+    "height": 600,
+    "maxKb": 240,
+    "format": "image/jpeg",
+    "note": "Official US Visa DS-160 requirement: 600x600 pixels square, JPEG format, maximum 240KB.",
+    "faqs": [
+      { "q": "What are the exact US Visa DS-160 photo dimensions?", "a": "The US Department of State requires a square 600x600 pixel JPEG image with a file size of 240KB or less." },
+      { "q": "Does this tool crop my photo to a square automatically?", "a": "Yes, Center Crop mode automatically frames your photo to 600x600 pixels without stretching." }
+    ]
+  },
+  {
+    "id": "us-passport-photo",
+    "slug": "us-passport-photo-resizer-2x2",
+    "toolName": "US Passport Photo (2x2 in / 600x600)",
+    "title": "US Passport Photo Resizer 2x2 Inch (600x600 px) Online",
+    "h1": "US Passport 2x2 Inch (600x600 px) Photo Resizer",
+    "description": "Resize digital photos to 2x2 inches (600x600 pixels at 300 DPI) for US Passport renewal applications.",
+    "width": 600,
+    "height": 600,
+    "maxKb": 240,
+    "format": "image/jpeg",
+    "note": "2x2 inches at 300 DPI equals 600x600 pixels, JPEG format under 240KB.",
+    "faqs": [
+      { "q": "How many pixels is a 2x2 inch US passport photo?", "a": "At standard 300 DPI print resolution, a 2x2 inch photo is 600x600 pixels." },
+      { "q": "What file format is required for online US passport renewal?", "a": "Online passport renewal requires a color JPEG file under 240KB (or up to 10MB depending on portal)." }
+    ]
+  },
+  {
+    "id": "schengen-visa-photo",
+    "slug": "schengen-visa-photo-resizer-35x45mm",
+    "toolName": "Schengen Visa Photo (35x45mm)",
+    "title": "Schengen Visa Photo Resizer 35x45mm (413x531 px) Online",
+    "h1": "Schengen Visa 35x45mm (413x531 px) Photo Resizer",
+    "description": "Resize photos to exact European Schengen Visa dimensions: 35mm x 45mm (413x531 pixels at 300 DPI) under 200KB.",
+    "width": 413,
+    "height": 531,
+    "maxKb": 200,
+    "format": "image/jpeg",
+    "note": "35mm x 45mm at 300 DPI = 413 x 531 pixels, capped under 200KB.",
+    "faqs": [
+      { "q": "What is 35x45mm in pixels for a Schengen visa?", "a": "At 300 DPI, 35mm x 45mm converts to exactly 413 x 531 pixels." },
+      { "q": "Which countries use the 35x45mm photo size?", "a": "All Schengen Area countries, UK, Australia, Singapore, and many Asian embassies use 35x45mm." }
+    ]
+  },
+  {
+    "id": "uk-passport-photo",
+    "slug": "uk-passport-photo-resizer-online",
+    "toolName": "UK Passport Digital Photo",
+    "title": "UK Passport Digital Photo Resizer (600x750 px) Online",
+    "h1": "UK Passport Digital Photo Resizer (600x750 px)",
+    "description": "Resize digital passport photos to HM Passport Office minimum dimensions (600x750 pixels) under 500KB.",
+    "width": 600,
+    "height": 750,
+    "maxKb": 500,
+    "format": "image/jpeg",
+    "note": "HM Passport Office minimum digital size: 600 pixels wide by 750 pixels high, JPEG format.",
+    "faqs": [
+      { "q": "What are the digital photo dimensions for a UK passport?", "a": "HM Passport Office requires digital photos to be at least 600 pixels wide and 750 pixels tall." },
+      { "q": "What is the file size limit for UK passport photos?", "a": "Digital UK passport photos must be between 50KB and 10MB in JPEG format." }
+    ]
+  },
+  {
+    "id": "canada-visa-photo",
+    "slug": "canada-ircc-visa-photo-resizer-420x540",
+    "toolName": "Canada IRCC Visa (420x540 px)",
+    "title": "Canada IRCC Visa Photo Resizer (420x540 px, Max 240KB)",
+    "h1": "Canada IRCC Visa & PR Photo Resizer (420x540 px)",
+    "description": "Resize photos to exact IRCC Canada visa and Express Entry specs: 420x540 pixels and under 240KB.",
+    "width": 420,
+    "height": 540,
+    "maxKb": 240,
+    "format": "image/jpeg",
+    "note": "IRCC minimum dimensions: 420 x 540 pixels, JPEG format, under 240KB.",
+    "faqs": [
+      { "q": "What are the IRCC digital photo specs for Canada?", "a": "IRCC specifies a minimum resolution of 420x540 pixels (35x45mm ratio) and file size under 240KB." },
+      { "q": "Should Canada visa photos be JPG or PNG?", "a": "IRCC portals require JPEG (.jpg) format." }
+    ]
+  },
+  {
+    "id": "india-pan-photo",
+    "slug": "pan-card-photo-resizer-213x213-30kb",
+    "toolName": "PAN Card Photo (213x213, 30KB)",
+    "title": "PAN Card Photo Resizer 213x213 px & Under 30KB Online",
+    "h1": "NSDL / UTI PAN Card Photo Resizer (213x213 px, 30KB)",
+    "description": "Resize and compress PAN card applicant photos to exact 213x213 pixels (2.5x2.5 cm) and under 30KB JPEG.",
+    "width": 213,
+    "height": 213,
+    "maxKb": 30,
+    "format": "image/jpeg",
+    "note": "NSDL PAN Card spec: 213x213 pixels (200 DPI) and strictly under 30KB.",
+    "faqs": [
+      { "q": "What is the exact photo size for NSDL PAN card?", "a": "NSDL requires a 213x213 pixel JPEG photo with a file size under 30KB (50KB max for UTI)." },
+      { "q": "How do I resize a signature for PAN card?", "a": "Select the Signature (20KB) preset from the dropdown menu above." }
+    ]
+  },
+  {
+    "id": "signature-20kb",
+    "slug": "signature-resizer-under-20kb",
+    "toolName": "Signature Resizer (Max 20KB)",
+    "title": "Signature Resizer & Compressor Under 20KB Online",
+    "h1": "Digital Signature Resizer & Compressor (Under 20KB)",
+    "description": "Resize scanned signatures to 300x100 pixels and compress under 20KB for exam, banking, and government portals.",
+    "width": 300,
+    "height": 100,
+    "maxKb": 20,
+    "format": "image/jpeg",
+    "note": "Standard 300x100 px signature dimensions compressed below 20KB.",
+    "faqs": [
+      { "q": "How do I resize my signature under 20KB?", "a": "Upload a photo of your signature on white paper; this preset resizes it to 300x100 px under 20KB." },
+      { "q": "Can I adjust the width and height for my specific portal?", "a": "Yes, you can type any custom pixel width and height into the boxes above." }
+    ]
+  },
+  {
+    "id": "ssc-upsc-photo",
+    "slug": "ssc-upsc-photo-resizer-20kb-50kb",
+    "toolName": "SSC / UPSC Photo (3.5x4.5cm, 50KB)",
+    "title": "SSC & UPSC Photo Resizer 3.5x4.5cm (20KB to 50KB)",
+    "h1": "SSC & UPSC Exam Photo Resizer (Under 50KB)",
+    "description": "Resize exam application photos to 3.5cm x 4.5cm (276x354 px) and compress between 20KB and 50KB.",
+    "width": 276,
+    "height": 354,
+    "maxKb": 48,
+    "format": "image/jpeg",
+    "note": "3.5cm x 4.5cm at 200 DPI (276x354 px), capped at 48KB to fit the 20KB–50KB window.",
+    "faqs": [
+      { "q": "What is the photo size for SSC and UPSC forms?", "a": "SSC and UPSC require a 3.5cm x 4.5cm JPEG photo between 20KB and 50KB." },
+      { "q": "Why does this preset target 48KB?", "a": "Targeting 48KB guarantees the file stays safely inside the 20KB to 50KB portal requirement." }
+    ]
+  },
+  {
+    "id": "youtube-thumbnail",
+    "slug": "youtube-thumbnail-resizer-1280x720-2mb",
+    "toolName": "YouTube Thumbnail (1280x720)",
+    "title": "YouTube Thumbnail Resizer 1280x720 px (Under 2MB)",
+    "h1": "YouTube Thumbnail Resizer (1280x720 & Under 2MB)",
+    "description": "Resize and compress YouTube video thumbnails to 1280x720 HD resolution under YouTube's 2MB upload limit.",
+    "width": 1280,
+    "height": 720,
+    "maxKb": 1900,
+    "format": "image/jpeg",
+    "note": "16:9 HD (1280x720 pixels) compressed below YouTube's 2MB (2048KB) limit.",
+    "faqs": [
+      { "q": "What is the recommended YouTube thumbnail size?", "a": "YouTube recommends 1280x720 pixels (16:9 aspect ratio) with a maximum file size of 2MB." },
+      { "q": "Why does YouTube reject my 4K thumbnail?", "a": "YouTube rejects thumbnails larger than 2MB; this tool shrinks the file size while keeping 1280x720 clarity." }
+    ]
+  },
+  {
+    "id": "instagram-square",
+    "slug": "instagram-post-resizer-1080x1080",
+    "toolName": "Instagram Square (1080x1080)",
+    "title": "Instagram Post Photo Resizer 1080x1080 px Online",
+    "h1": "Instagram Square Post Resizer (1080x1080 px)",
+    "description": "Crop and resize photos to 1080x1080 pixels for crisp, uncompressed Instagram square feed posts.",
+    "width": 1080,
+    "height": 1080,
+    "maxKb": 800,
+    "format": "image/jpeg",
+    "note": "1:1 square 1080x1080 pixels optimized to prevent Instagram's aggressive re-compression.",
+    "faqs": [
+      { "q": "What is the best resolution for Instagram square posts?", "a": "1080x1080 pixels is Instagram's native square resolution." },
+      { "q": "How do I prevent Instagram from making my photos blurry?", "a": "Pre-size your photo to 1080px wide and under 1MB so Instagram does not downscale it." }
+    ]
+  },
+  {
+    "id": "linkedin-banner",
+    "slug": "linkedin-banner-resizer-1584x396",
+    "toolName": "LinkedIn Banner (1584x396)",
+    "title": "LinkedIn Background Banner Resizer (1584x396 px)",
+    "h1": "LinkedIn Profile Banner Resizer (1584x396 px)",
+    "description": "Resize your LinkedIn cover background image to exact 1584x396 pixels (4:1 ratio) under 8MB.",
+    "width": 1584,
+    "height": 396,
+    "maxKb": 1000,
+    "format": "image/jpeg",
+    "note": "Official LinkedIn personal background dimensions: 1584 x 396 pixels.",
+    "faqs": [
+      { "q": "What are the exact LinkedIn profile banner dimensions?", "a": "LinkedIn recommends 1584 pixels wide by 396 pixels tall (4:1 aspect ratio)." },
+      { "q": "What is the maximum file size for a LinkedIn cover photo?", "a": "LinkedIn allows background images up to 8MB in JPG or PNG format." }
+    ]
+  },
+  {
+    "id": "shopify-product",
+    "slug": "shopify-product-image-resizer-2048x2048",
+    "toolName": "Shopify Product (2048x2048)",
+    "title": "Shopify Product Image Resizer 2048x2048 px Online",
+    "h1": "Shopify Product Image Resizer & Optimizer (2048x2048)",
+    "description": "Resize e-commerce product photos to 2048x2048 square pixels and optimize file size for fast Shopify store loading.",
+    "width": 2048,
+    "height": 2048,
+    "maxKb": 350,
+    "format": "image/jpeg",
+    "note": "2048x2048 pixels enables Shopify zoom while keeping file weight ~350KB for fast SEO.",
+    "faqs": [
+      { "q": "What is the ideal Shopify product image size?", "a": "Shopify recommends 2048x2048 pixels for square product photos to support high-res zoom." },
+      { "q": "Can I resize multiple product photos at once?", "a": "Yes, select multiple product images at once to batch resize them in seconds." }
+    ]
+  },
+  {
+    "id": "discord-emoji",
+    "slug": "discord-emoji-resizer-128x128-256kb",
+    "toolName": "Discord Emoji (128x128, 256KB)",
+    "title": "Discord Custom Emoji Resizer (128x128 px, Under 256KB)",
+    "h1": "Discord Emoji Resizer (128x128 px & Under 256KB)",
+    "description": "Resize and compress custom Discord server emojis to 128x128 pixels and strictly under 256KB.",
+    "width": 128,
+    "height": 128,
+    "maxKb": 250,
+    "format": "image/png",
+    "note": "128x128 pixels PNG format, kept under Discord's 256KB emoji size limit.",
+    "faqs": [
+      { "q": "What is Discord's emoji size limit?", "a": "Discord custom emojis must be 128x128 pixels and under 256KB in file size." },
+      { "q": "Does this preserve transparent backgrounds for emojis?", "a": "Yes, PNG format preserves full alpha transparency for custom emojis." }
+    ]
+  },
+  {
+    "id": "webp-converter",
+    "slug": "convert-and-compress-image-to-webp",
+    "toolName": "Convert & Compress to WebP",
+    "title": "Convert JPG/PNG to Compressed WebP Online Free",
+    "h1": "Convert & Compress Images to Next-Gen WebP",
+    "description": "Convert PNG and JPG images to lightweight WebP format under 150KB for higher Google PageSpeed scores.",
+    "width": 0,
+    "height": 0,
+    "maxKb": 150,
+    "format": "image/webp",
+    "note": "Converts to modern WebP format (~30% smaller than JPEG at equal visual quality).",
+    "faqs": [
+      { "q": "Why should I convert website images to WebP?", "a": "WebP files are 25% to 35% smaller than JPEGs, improving Google PageSpeed and SEO rankings." },
+      { "q": "Does WebP support transparency?", "a": "Yes, WebP supports transparent backgrounds just like PNG at a fraction of the file size." }
+    ]
+  }
+]
